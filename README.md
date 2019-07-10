@@ -7,6 +7,5 @@ As a project/product manager, communication is crucial.  Good data visualization
 # Portfolio
 ### _Critique Assignment #1: Redesign of Economist Graph_
 
-<iframe title="Average Number of Likes Per Facebook Post" aria-label="Column Chart" src="//datawrapper.dwcdn.net/UhfXq/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400"></iframe>
 
 ![Screenshot](https://raw.githubusercontent.com/Har1337master/Telling-Stories-with-Data-Portfolio/master/Screenshot.png)
