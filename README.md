@@ -9,4 +9,3 @@ As a project/product manager, communication is crucial.  Good data visualization
 
 <iframe title="Average Number of Likes Per Facebook Post" aria-label="Column Chart" id="datawrapper-chart-UhfXq" src="//datawrapper.dwcdn.net/UhfXq/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
-![Screenshot](https://raw.githubusercontent.com/Har1337master/Telling-Stories-with-Data-Portfolio/master/Screenshot.png)
