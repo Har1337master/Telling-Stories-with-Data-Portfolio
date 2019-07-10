@@ -9,4 +9,4 @@ As a project/product manager, communication is crucial.  Good data visualization
 
 <iframe title="Average Number of Likes Per Facebook Post" aria-label="Column Chart" src="//datawrapper.dwcdn.net/UhfXq/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400"></iframe>
 
-![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
+![Screenshot](screenshot.png)
