@@ -5,5 +5,5 @@ My name is Harley Chang, pronouns "he/him."  I'm a graduate student in the Maste
 # What I Hope to Learn
 As a project/product manager, communication is crucial.  Good data visualization will most certainly be a big part of communicating results to stakeholders or administrators in a clear and succinct way.  I want to learn how to organize multi-dimensional data in a way that can be easy to understand, as well as be able to use it in a way to help convince my audience of whatever argument I'm trying to make.
 # Portfolio
-### _Critique Assignment #1_
+### _Critique Assignment #1: Redesign of Economist Graph_
 <iframe title="Average Number of Likes Per Facebook Post" aria-label="Column Chart" src="//datawrapper.dwcdn.net/UhfXq/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400"></iframe>
