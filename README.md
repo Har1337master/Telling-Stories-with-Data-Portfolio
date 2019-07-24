@@ -33,3 +33,8 @@ Comparing the two infographics, it was interesting to see that while the data re
 ### _Data Visualization #2: OECD_
 
 [click here to see the new page!](/dataviz2.md)
+
+### _Final Project_
+
+[click here to see my final project page!](/dataviz2.md)
+Progress: Project Proposal
