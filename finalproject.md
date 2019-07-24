@@ -20,6 +20,7 @@ User Stories:
 
 ## Initial sketches
 
+![Sketches](/IMG_20190724_051810[1].jpg)
 
 ## The data
 
