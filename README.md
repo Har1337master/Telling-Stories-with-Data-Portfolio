@@ -32,4 +32,4 @@ Comparing the two infographics, it was interesting to see that while the data re
 
 ### _Data Visualization #2: OECD_
 
-[click here to see the new page!](/OECD data visualization #2.md)
+[click here to see the new page!](/dataviz2.md)
