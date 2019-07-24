@@ -29,3 +29,7 @@ The intended audience here is policymakers, with the story being CBP and ICE req
 
 #### Comparing the two infographics
 Comparing the two infographics, it was interesting to see that while the data remained the same, the presentation of them were different.  The report to DHS was very matter of fact, using bar graphs to get the point across, while the news story used other forms of visualization to editorialize the story.  In addition, the news story did not talk about the last section, which focused on funding, as this is A) something that runs counter to the narrative the other two sections are trying to provide and B) not something the readers could directly affect.
+
+### _Data Visualization #2: OECD_
+
+[click here to see the new page!](/OECD data visualization #2.md)
