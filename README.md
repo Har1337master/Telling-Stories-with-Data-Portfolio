@@ -36,6 +36,6 @@ Comparing the two infographics, it was interesting to see that while the data re
 
 ### _Final Project_
 
-[click here to see my final project page!](/Finalproject.md)
+[click here to see my final project page!](/finalproject.md)
 
 Progress: Project Proposal
