@@ -36,3 +36,74 @@ The story will be delivered via an infographic made through shorthand.
 
 https://docs.google.com/presentation/d/1K6Q3CyhVtBq8R_MmciU2vj5AvImrBMMVGPiO35s-1sw/edit#slide=id.g5e593d8e32_0_133
 
+## Testing Protocol
+
+### a. The target audience: 
+
+The incoming METALS Cohort
+
+### b. Approach in identifying representative individuals to interview: 
+
+Ideally, this would be the target audience, as some are already on campus.  However, none could be found in the time given.  Three adjacent individuals were chosen instead.  Two are current METALS students and another a friend who is about to go back to school and is in process of choosing classes.
+
+### c. Interview script:
+
+So today, I'm going to show you a presentation that includes several data visualizations, all of them rough drafts, and I'd like you to give me some feedback on them.  This is meant to a presentation with the incoming METALS cohort in mind, but just talk about the presentation and data visualizations from your point of view.
+
+(After each visualization) What did you notice? What was your take away from this visualization?
+(After Visualization 1) I wanted to showcase that most core classes are pretty good, particularly EGIA, while Tools was not so good.  Did you get this message at all?  What detracted from this message, what could help enhance this message?
+
+(After visualization 2) I wanted to showcase which electives are highly rated, and which ones are less so. Did you get this message at all?  What detracted from this message, what could help enhance this message?
+
+(After visualization 3) I wanted to showcase that Capstone is all over the place, and also massive amounts of work. Did you get this message at all?  What detracted from this message, what could help enhance this message?
+
+(After the whole presentation)What are you thinking about after seeing the presentation?  What more did you want to know from the graphs?  The presentation as a whole?
+
+### The findings from the interviews
+
+##### "Jesus, this is a crime scene" -Interviewee 3
+
+Overall every visualization had too much information and poorly organized
+
+A unanimous opinion was that the constant overlap of circles and text made interpretations extremely cognatively demanding
+
+
+##### "Ah, I didn't get that until you explained it to me" - Interviewee 1
+
+Several points were too subtle or hidden for users to pick up.
+
+The size of the circles to denote the amount of hours that a class requires was impossible to compare for the first visualization
+
+The current grading scale of 1 to 5 has no reference
+
+##### "This would be really useful as I sign up for classes" - Interviewee 2
+
+Some concepts shown through 
+
+All three users could tell that Tools for Online Learning was particularly bad and Educational Goal, Instruction and Assessment was very good.
+
+Two liked the idea of being able to see clusters of where a particular class' data laid in visualization 2, to see consistency, as well as if it was regularly near the top.
+
+Capstone has a massive courseload, but that wouldn't have been my main focus if it weren't for the title - Interviewee 1
+
+All three users noted the positive correlation between giving feedback and having clear learning goals.  That said, this is all likely to be from good teaching in general, and it is not the right  message to be giving to the audience.
+
+Two users thought the entire presentation was quite interesting
+
+##### "..." -All three interviewees
+
+None of the users could state any call to action from the presentation
+
+#### Planned changes to address feedback
+
+Averaging all the year's courses into just one point to decrease dots
+
+Color coding each course
+
+adding on a best for 5 and worst for 1 would help give the graphs some reference
+
+Use different shapes to compare METALS classes vs. HCI ones to help have some further distinguishment from all the overlapping circles.
+
+Use color gradient for work involved instead of size of circles
+
+Rethink story for better call to action
