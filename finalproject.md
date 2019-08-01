@@ -29,3 +29,10 @@ The data comes from the faculty evaluation database that stores all the faculty 
 ## Method and medium
 
 The story will be delivered via an infographic made through shorthand.
+
+# User Testing
+
+## Wireframes/Storyboard
+
+https://docs.google.com/presentation/d/1K6Q3CyhVtBq8R_MmciU2vj5AvImrBMMVGPiO35s-1sw/edit#slide=id.g5e593d8e32_0_133
+
