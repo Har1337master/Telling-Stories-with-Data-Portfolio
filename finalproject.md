@@ -53,7 +53,7 @@ The story will be delivered via an infographic made through infogram.
 
 ## Wireframes/Storyboard
 
-https://docs.google.com/presentation/d/1K6Q3CyhVtBq8R_MmciU2vj5AvImrBMMVGPiO35s-1sw/edit#slide=id.g5e593d8e32_0_133
+[click here to be taken to google slides storyboard](https://docs.google.com/presentation/d/1K6Q3CyhVtBq8R_MmciU2vj5AvImrBMMVGPiO35s-1sw/edit#slide=id.g5e593d8e32_0_133)
 
 ## Testing Protocol
 
@@ -131,11 +131,24 @@ Rethink story for better call to action
 
 <div class="infogram-embed" data-id="_/JLhS7w9iXRgQRIN1rITk" data-type="interactive" data-title="What Electives Should a METALS Student Choose"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script>
 
-Visit the original:
-https://infogram.com/1p1jmpqln35gejfmd2wr0wz6jqb6g5pq53e?live
+Visit the [original](https://infogram.com/1p1jmpqln35gejfmd2wr0wz6jqb6g5pq53e?live)
 
 ### Additional Notes
 
 The only two audiences who would usually care about teacher evaluations are the teachers themselves and future students.  With the data no longer supporting the original claim that METALS professors are better than their peers, the audience turned to future students.  Some of the planned changes I thought up of from user testing were general ways to make the data more readable and understandable, such as averaging the data to have less points and using some color codes.  But specifically for the audience, I also made the change to show METALS classes only, as METALS students would not care about classes they couldn't take.  In addition, I removed the variable of course ratings and thus a full axis from required courses, as even a horribly rated course like Tools for Online Learning has to be taken anyway.
 
-All these changes I feel greatly focuses the story, both in terms of choosing exactly what content is most useful to my audience and giving nothing more as well as using visualizations in a way that keeps them from becoming too busy.  Basic graphs are all that's needed to get my point across.  In addition, I put some thought into how to actually present all these graphs.  
+All these changes I feel greatly focuses the story, both in terms of choosing exactly what content is most useful to my audience and giving nothing more as well as using visualizations in a way that keeps them from becoming too busy.  Basic graphs are all that's needed to get my point across.  I admit I did not put too much thought into the colors of the infographic.  I simply chose the METALS colors of red, black and white.  I did however, put some thought into how to actually present all these graphs.  I worked basically in the order I would tell my story: 
+
+First level : Everyone is specialized in something when they come in, and this tends to be evenly distributed among the three subjects METALS students are required to learn
+
+Second level: That specialization informs how much time you'll spend on your core classes, which, perhaps interestingly to the outsider, seems to be longer if you are an expert in that particular class.  Some further digging outside of this data would have alumni telling you that this makes sense because the program requires everyone to work together to cover each others' weaknesses and you'll often be consulted as the expert for the classes that come easy to you, driving up your workload.
+
+Also second level: The enigma that is capstone, which comes in the Spring, always takes a lot more than the advertised 12 credits, and seemingly on the rise as the years progress.
+
+Third level: Since METALS students are required to take two specializations for their electives, so no staying only an expert in what you came in with, it's important to consider exactly what electives to take based on course rating and how much work the course gives.
+
+The first level gives background, the second level gives information on the inevitable, and after containing those pieces of information, the student is ready to see the third level, which gives information that the student actually has power over.  This is also the thinking process that METALS students should have as they think about electives.
+
+
+
+(Data used can be found in the small type at the bottom of the infographic)
