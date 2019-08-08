@@ -149,6 +149,4 @@ Third level: Since METALS students are required to take two specializations for 
 
 The first level gives background, the second level gives information on the inevitable, and after containing those pieces of information, the student is ready to see the third level, which gives information that the student actually has power over.  This is also the thinking process that METALS students should have as they think about electives.
 
-
-
 (Data used can be found in the small type at the bottom of the infographic)
