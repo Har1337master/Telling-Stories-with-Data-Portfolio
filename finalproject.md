@@ -43,7 +43,7 @@ User Stories:
 
 ## The data
 
-The data comes from the faculty evaluation database that stores all the faculty evaluations from across CMU’s many different schools since 2008.  It can be found at this website: https://wwwh3.smartevals.com/reporting/StudentsSeeResults.aspx.  The specific data I’m using is a cleaned up, filtered version of this very large dataset that includes only courses from the HCI department and only courses 2015 onwards due to a different system of tracking how many hours were spent on the course before 2015.  As METALS’ first year was in 2013, the loss of data is minimal due to the previous problem.  The specific variables I’ll potentially use from the evaluation are year the course was taught, course ID, professor teaching the course, response rate, number of hours per week needed for class, and overall  rating.  Variables thrown out include section number and all the specific rating questions.  These are all too detailed and will likely have little information gain for the reader compared to the trouble it will be to comprehend the extra information.
+The data comes from the faculty evaluation database that stores all the faculty evaluations from across CMU’s many different schools since 2008.  It can be found at this [website](https://wwwh3.smartevals.com/reporting/StudentsSeeResults.aspx).  The specific data I’m using is a cleaned up, filtered version of this very large dataset that includes only courses from the HCI department and only courses 2015 onwards due to a different system of tracking how many hours were spent on the course before 2015.  As METALS’ first year was in 2013, the loss of data is minimal due to the previous problem.  The specific variables I’ll potentially use from the evaluation are year the course was taught, course ID, professor teaching the course, response rate, number of hours per week needed for class, and overall  rating.  Variables thrown out include section number and all the specific rating questions.  These are all too detailed and will likely have little information gain for the reader compared to the trouble it will be to comprehend the extra information.
 
 ## Method and medium
 
@@ -131,6 +131,11 @@ Rethink story for better call to action
 
 <div class="infogram-embed" data-id="_/JLhS7w9iXRgQRIN1rITk" data-type="interactive" data-title="What Electives Should a METALS Student Choose"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script>
 
-### Intended Audience
+Visit the original:
+https://infogram.com/1p1jmpqln35gejfmd2wr0wz6jqb6g5pq53e?live
 
+### Additional Notes
 
+The only two audiences who would usually care about teacher evaluations are the teachers themselves and future students.  With the data no longer supporting the original claim that METALS professors are better than their peers, the audience turned to future students.  Some of the planned changes I thought up of from user testing were general ways to make the data more readable and understandable, such as averaging the data to have less points and using some color codes.  But specifically for the audience, I also made the change to show METALS classes only, as METALS students would not care about classes they couldn't take.  In addition, I removed the variable of course ratings and thus a full axis from required courses, as even a horribly rated course like Tools for Online Learning has to be taken anyway.
+
+All these changes I feel greatly focuses the story, both in terms of choosing exactly what content is most useful to my audience and giving nothing more as well as using visualizations in a way that keeps them from becoming too busy.  Basic graphs are all that's needed to get my point across.  In addition, I put some thought into how to actually present all these graphs.  
