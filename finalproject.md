@@ -4,9 +4,13 @@
 
 My program, the Master’s in Educational Technologies and Applied Learning Sciences (or METALS for short) prides itself on being one of the few places at CMU dedicated to the study of education.  Common sense dictates that education professors are generally better at teaching than those who have not dedicated their life to learning this field.  However, METALS professors are also not education professors, but rather those who have simply made education their area of study.  It will be interesting to see if METALS professors also can fit the bill of being generally better at teaching than their general HCI colleagues.  
 
+#### Edit July 31st: 
+
+Upon playing around with the data, my initial story is unable to be supported as data points showed all METALS courses falling within the full range of HCI courses.  I have thus changed the story to be more of an overview of METALS courses and how it may help guide new METALS students to better select their courses.
+
 ## Story Structure
 
-Setup: Metals currently advertises 100% career placement and what do people do
+Setup: METALS currently advertises 100% career placement and what do people do
 
 Conflict: This tells very little about what the program experience itself is like
 
@@ -18,17 +22,32 @@ User Stories:
 
 2. As a reader I want to know what classes are the highest/lowest rated, so I can take/avoid those classes
 
+#### Edit August 7th:
+
+Setup: METALS is an interdisciplinary program where you are expected to learn principles of learning science/education, technology/programming, and design thinking/skills
+
+Conflict: No one comes in with expertise in all three categories and classes can take longer or shorter depending on what you have expertise in
+
+Resolution: Care should be taken in deciding what electives to choose so that you will not be overwhelmed in any one semester
+
+User Stories: 
+
+1. As a reader I want to know what classes might be harder for me
+
+2. As a reader I want to know what classes I should choose every semester so I won't be overwhelmed
+
+
 ## Initial sketches
 
 ![Sketches](/IMG_20190724_051810[1].jpg)
 
 ## The data
 
-The data comes from the faculty evaluation database that stores all the faculty evaluations from across CMU’s many different schools since 2008.  It can be found at this website: https://wwwh3.smartevals.com/reporting/StudentsSeeResults.aspx.  The specific data I’m using is a cleaned up, filtered version of this very large dataset that includes only courses from the HCI department and only courses 2015 onwards due to a different system of tracking how many hours were spent on the course before 2015.  As METALS’ first year was in 2013, the loss of data is minimal due to the previous problem.  The specific variables I’ll potentially use from the evaluation are year the course was taught, course ID, professor teaching the course, response rate, number of hours per week needed for class, and overall teaching rating.  Variables thrown out include section number and all the specific rating questions.  These are all too detailed and will likely have little information gain for the reader compared to the trouble it will be to comprehend the extra information.
+The data comes from the faculty evaluation database that stores all the faculty evaluations from across CMU’s many different schools since 2008.  It can be found at this website: https://wwwh3.smartevals.com/reporting/StudentsSeeResults.aspx.  The specific data I’m using is a cleaned up, filtered version of this very large dataset that includes only courses from the HCI department and only courses 2015 onwards due to a different system of tracking how many hours were spent on the course before 2015.  As METALS’ first year was in 2013, the loss of data is minimal due to the previous problem.  The specific variables I’ll potentially use from the evaluation are year the course was taught, course ID, professor teaching the course, response rate, number of hours per week needed for class, and overall  rating.  Variables thrown out include section number and all the specific rating questions.  These are all too detailed and will likely have little information gain for the reader compared to the trouble it will be to comprehend the extra information.
 
 ## Method and medium
 
-The story will be delivered via an infographic made through shorthand.
+The story will be delivered via an infographic made through infogram.
 
 # User Testing
 
@@ -61,14 +80,14 @@ So today, I'm going to show you a presentation that includes several data visual
 
 ### The findings from the interviews
 
-##### "Jesus, this is a crime scene" -Interviewee 3
+##### _"Jesus, this is a crime scene" -Interviewee 3_
 
 Overall every visualization had too much information and poorly organized
 
 A unanimous opinion was that the constant overlap of circles and text made interpretations extremely cognatively demanding
 
 
-##### "Ah, I didn't get that until you explained it to me" - Interviewee 1
+##### _"Ah, I didn't get that until you explained it to me" - Interviewee 1_
 
 Several points were too subtle or hidden for users to pick up.
 
@@ -76,7 +95,7 @@ The size of the circles to denote the amount of hours that a class requires was 
 
 The current grading scale of 1 to 5 has no reference
 
-##### "This would be really useful as I sign up for classes" - Interviewee 2
+##### _"This would be really useful as I sign up for classes" - Interviewee 2_
 
 Some concepts shown through 
 
@@ -90,7 +109,7 @@ All three users noted the positive correlation between giving feedback and havin
 
 Two users thought the entire presentation was quite interesting
 
-##### "..." -All three interviewees
+##### _"..." -All three interviewees_
 
 None of the users could state any call to action from the presentation
 
@@ -107,3 +126,11 @@ Use different shapes to compare METALS classes vs. HCI ones to help have some fu
 Use color gradient for work involved instead of size of circles
 
 Rethink story for better call to action
+
+# Final Story
+
+<div class="infogram-embed" data-id="_/JLhS7w9iXRgQRIN1rITk" data-type="interactive" data-title="What Electives Should a METALS Student Choose"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script>
+
+### Intended Audience
+
+
